@@ -1,0 +1,155 @@
+/*======= ROBOTO FONT IMPORT =============================================================*/
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Roboto-Thin'),url(../fonts/Roboto/Roboto-Thin.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: italic;
+    font-display: fallback;
+    src: local('Roboto-ThinItalic'),url(../fonts/Roboto/Roboto-ThinItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Roboto-Light'),url(../fonts/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: italic;
+    font-display: fallback;
+    src: local('Roboto-LightItalic'),url(../fonts/Roboto/Roboto-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Roboto-Regular'),url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+// @font-face {
+//     font-family: 'Roboto';
+//     font-weight: 400;
+//     font-style: italic;
+//     font-display: fallback;
+//     src: local('Roboto-RegularItalic'),url(../fonts/Roboto/Roboto-Regular.ttf);
+// }
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Roboto-Medium'),url(../fonts/Roboto/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-style: italic;
+    font-display: fallback;
+    src: local('Roboto-MediumItalic'),url(../fonts/Roboto/Roboto-MediumItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Roboto-Bold'),url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-style: italic;
+    font-display: fallback;
+    src: local('Roboto-BoldItalic'),url(../fonts/Roboto/Roboto-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Roboto-Black'),url(../fonts/Roboto/Roboto-Black.ttf);
+}
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: italic;
+    font-display: fallback;
+    src: local('Roboto-BlackItalic'),url(../fonts/Roboto/Roboto-BlackItalic.ttf);
+}
+
+/*======= INTER FONT IMPORT =============================================================*/
+@font-face {
+    font-family: 'Inter';
+    font-weight: 100;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-Thin'),url(../fonts/Inter/Inter-Thin.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 200;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-ExtraLight'),url(../fonts/Inter/Inter-ExtraLight.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-Light'),url(../fonts/Inter/Inter-Light.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-Regular'),url(../fonts/Inter/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-Regular'),url(../fonts/Inter/Inter-Medium.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-SemiBold'),url(../fonts/Inter/Inter-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-Bold'),url(../fonts/Inter/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 800;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-ExtraBold'),url(../fonts/Inter/Inter-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+    src: local('Inter-Black'),url(../fonts/Inter/Inter-Black.ttf);
+}

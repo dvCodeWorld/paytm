@@ -1,0 +1,81 @@
+@import "../../../../assets/scss/variable";
+
+.home-header{
+    background: linear-gradient(180deg, $header-background-color-top 0%, $header-background-color-middle 23%, $header-background-color-bottom 63%);
+    height: 60vh;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+
+    nav{
+        display: flex;
+        align-items: center;
+        height: 60px;
+        padding: 0.6rem 1rem;
+
+        .menu-toggle{
+            position: relative;
+            img{
+                width: 36px;
+                height: 36px;
+                border-radius: 50%;
+                object-fit: cover;
+            }
+            .hamberger-wrapper{
+                position: absolute;
+                top: 56%;
+                left: 56%;
+                .hamberger-icon{
+                    background-color: #fff;
+                    height: 15px;
+                    width: 15px;
+                    border-radius: 50%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    object-fit: cover;
+                    .line{
+                        width: 7px;
+                        height: 1.2px;
+                        background-color: grey;
+                        display: block;
+                        border-radius: 4px;
+                        margin: 1px 0;
+                    }
+                }
+            }
+
+        }
+
+        .brand-logo{
+            margin-left: 4px;
+            img{
+                width: 150px;
+            }
+        }
+        
+        .action-panel{
+            margin-left: auto;
+            display: inline-flex;
+            div{
+                margin-left: 14px;
+                img{
+                    height: 25px;
+                }
+            }
+        }
+    }
+
+    article{
+        padding: 15px;
+        text-align: center;
+        a{
+           color: $paytm-dark-blue;
+           font-size: 16px;
+           font-family: $Inter;
+           font-weight: $inter-font-weight-700;
+        }
+    }
+}
