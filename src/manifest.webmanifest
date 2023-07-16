@@ -1,7 +1,7 @@
 {
-  "name": "paytm",
-  "short_name": "paytm",
-  "theme_color": "#1976d2",
+  "name": "Paytm",
+  "short_name": "Paytm",
+  "theme_color": "#BFECFF",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
